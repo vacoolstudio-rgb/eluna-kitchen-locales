@@ -105,6 +105,24 @@
       "bytes": 31030,
       "items": 530
     },
+    "kn": {
+      "file": "lang_kn.json",
+      "sha256": "328ff298e2ebc64a90413381c8476ea9ec6c4a31f4b53d6cba7e50e70557abdf",
+      "bytes": 55253,
+      "items": 530
+    },
+    "ml": {
+      "file": "lang_ml.json",
+      "sha256": "367ddd56ae308f0428f4c60ce59f84197a3ee917c1abf88a840cb29deb0ce8a7",
+      "bytes": 60426,
+      "items": 530
+    },
+    "mr": {
+      "file": "lang_mr.json",
+      "sha256": "31b730485c22787f322646900ba6c656b10bbf0fe6e07b9fbbd1adfdaa2c2058",
+      "bytes": 52415,
+      "items": 530
+    },
     "nl": {
       "file": "lang_nl.json",
       "sha256": "9d7d6ea485d441a25bb850136a94b4b00df164f715126c904dcee5408ce99d19",
