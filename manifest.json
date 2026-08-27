@@ -1,13 +1,55 @@
 {
-  "version": "2026-08-27",
+  "version": "2026-08-28",
   "defaultLocale": "en",
-  "keys": 517,
+  "keys": 526,
   "locales": {
+    "de": {
+      "file": "lang_de.json",
+      "sha256": "6d18cede581ffe80eb319b1b9800e8685308c093cf6d0aa2163deaef65944c2b",
+      "bytes": 30749,
+      "items": 526
+    },
+    "es": {
+      "file": "lang_es.json",
+      "sha256": "1f464da50cad67b6b1b5794f59f022f04cedac258f5e5d9fc3f0a9fb39fa2d1c",
+      "bytes": 30426,
+      "items": 526
+    },
+    "fr": {
+      "file": "lang_fr.json",
+      "sha256": "ed9ae5420ef28f9985b6c990294bdcad4db7c3417bd12fd5ec19ecb06f47a416",
+      "bytes": 32057,
+      "items": 526
+    },
+    "it": {
+      "file": "lang_it.json",
+      "sha256": "a2bfa5f194036b663d8435bb6fa7c4e3862a33c4eb04a474dc6c6627cbd0b979",
+      "bytes": 30682,
+      "items": 526
+    },
+    "pl": {
+      "file": "lang_pl.json",
+      "sha256": "e045259e1cc6d419afdb59c27c758a24f2149935fa9d9ef99325c6733d5dd26a",
+      "bytes": 30132,
+      "items": 526
+    },
+    "pt": {
+      "file": "lang_pt.json",
+      "sha256": "9dca15bb7730716d08089ffc1636988aa057847ced72f98a66aedc81245a98a8",
+      "bytes": 30249,
+      "items": 526
+    },
     "ru": {
       "file": "lang_ru.json",
-      "sha256": "800f490b533a73a0bb2a0f7c2b08dba9fe0519e3c4d53714f5387240710b1e29",
-      "bytes": 40422,
-      "items": 517
+      "sha256": "dd305b18a95aca5c196a8f7cba7c3e730931a25d4ad16dca80eeefeef95a5e3b",
+      "bytes": 41671,
+      "items": 526
+    },
+    "uk": {
+      "file": "lang_uk.json",
+      "sha256": "2305d2d64afa14e8e84926ca2e3ff1fdc47065d892a5941c40dc5735c898893f",
+      "bytes": 41514,
+      "items": 526
     }
   }
 }
