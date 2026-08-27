@@ -3,6 +3,12 @@
   "defaultLocale": "en",
   "keys": 526,
   "locales": {
+    "ar": {
+      "file": "lang_ar.json",
+      "sha256": "82558982b49949a4d2828f7e7eb9343b02caf1c3e04402127970ebb53172b890",
+      "bytes": 37309,
+      "items": 526
+    },
     "bg": {
       "file": "lang_bg.json",
       "sha256": "922c2ff708c665fa6e6bdddd169ccd9d3ebfe65e64a262b3835e4f1161418ac7",
@@ -45,6 +51,12 @@
       "bytes": 30426,
       "items": 526
     },
+    "fa": {
+      "file": "lang_fa.json",
+      "sha256": "16cfdf43c047d19894d14e1aaf0221d8600e5ebbdd8ef6e8980d2a5eaefedab1",
+      "bytes": 39154,
+      "items": 526
+    },
     "fi": {
       "file": "lang_fi.json",
       "sha256": "9b46188b24a039fa78e56f844fbe7afdaba7db84e92d214ca489ab953fe160bd",
@@ -55,6 +67,12 @@
       "file": "lang_fr.json",
       "sha256": "ed9ae5420ef28f9985b6c990294bdcad4db7c3417bd12fd5ec19ecb06f47a416",
       "bytes": 32057,
+      "items": 526
+    },
+    "he": {
+      "file": "lang_he.json",
+      "sha256": "056a28add2d7f3519d4defe37f7f51b05051601d5b152204e53ceee945b7f9e7",
+      "bytes": 35475,
       "items": 526
     },
     "hr": {
@@ -145,6 +163,12 @@
       "file": "lang_uk.json",
       "sha256": "2305d2d64afa14e8e84926ca2e3ff1fdc47065d892a5941c40dc5735c898893f",
       "bytes": 41514,
+      "items": 526
+    },
+    "ur": {
+      "file": "lang_ur.json",
+      "sha256": "50897560b9077c45697ab26768cd5a6859bd509fd5d9712bfab81d0fc03fd2f4",
+      "bytes": 39435,
       "items": 526
     }
   }
