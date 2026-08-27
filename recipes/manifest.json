@@ -1,0 +1,13 @@
+{
+  "version": "2026-08-28",
+  "defaultLocale": "en",
+  "recipes": 3132,
+  "locales": {
+    "ru": {
+      "file": "recipes_ru.json.gz",
+      "sha256": "6d8fff86c6e4ae1e5b219e2bafa6836dd5f3d453b951b177693cae9ea5164eec",
+      "bytes": 734570,
+      "items": 3132
+    }
+  }
+}
