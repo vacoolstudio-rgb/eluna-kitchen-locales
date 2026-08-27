@@ -5,9 +5,9 @@
   "locales": {
     "de": {
       "file": "recipes_de.json.gz",
-      "sha256": "7dbd3d4402a9c2e8093a7083dcc194fa89a52db95909d0be0d19354bf532992d",
-      "bytes": 599483,
-      "items": 2998
+      "sha256": "2962b84a63ef76f7e643d6369a1073b9489a6e1323c3d083195cf88c3caee04f",
+      "bytes": 631180,
+      "items": 3132
     },
     "ru": {
       "file": "recipes_ru.json.gz",
