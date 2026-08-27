@@ -51,6 +51,12 @@
       "bytes": 32057,
       "items": 526
     },
+    "hr": {
+      "file": "lang_hr.json",
+      "sha256": "9ef781cadf93832fb3cca72b4333ee4607e583b8c242974c1b626d71203d2fe0",
+      "bytes": 29231,
+      "items": 526
+    },
     "hu": {
       "file": "lang_hu.json",
       "sha256": "0de04722df67f96603d071eaa6316bfbb1ca448c3093e1dd931aa089ada97eac",
@@ -103,6 +109,12 @@
       "file": "lang_sk.json",
       "sha256": "56159afd43ac227b20d4cb9a7e0e8726de8d055f3cb41ba84f5451cd61a69737",
       "bytes": 30342,
+      "items": 526
+    },
+    "sr": {
+      "file": "lang_sr.json",
+      "sha256": "7fdc9a9b4e028b1667b25c4be6182e452571233f9feb9b96fa93ff07922a0218",
+      "bytes": 40899,
       "items": 526
     },
     "sv": {
