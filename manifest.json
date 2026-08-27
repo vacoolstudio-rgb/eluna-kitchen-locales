@@ -3,6 +3,12 @@
   "defaultLocale": "en",
   "keys": 526,
   "locales": {
+    "bg": {
+      "file": "lang_bg.json",
+      "sha256": "922c2ff708c665fa6e6bdddd169ccd9d3ebfe65e64a262b3835e4f1161418ac7",
+      "bytes": 42246,
+      "items": 526
+    },
     "cs": {
       "file": "lang_cs.json",
       "sha256": "1b2c5f245de7f1724e6f0a49b230d20dd71d78d1ca0dcfca26ef6b9247f608d6",
@@ -19,6 +25,12 @@
       "file": "lang_de.json",
       "sha256": "6d18cede581ffe80eb319b1b9800e8685308c093cf6d0aa2163deaef65944c2b",
       "bytes": 30749,
+      "items": 526
+    },
+    "el": {
+      "file": "lang_el.json",
+      "sha256": "357990f71b8f69da2fc586dc7ad729220c17412d2729e42e4948d7c8d7a8f8ba",
+      "bytes": 45637,
       "items": 526
     },
     "es": {
