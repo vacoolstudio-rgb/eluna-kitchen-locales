@@ -3,6 +3,12 @@
   "defaultLocale": "en",
   "keys": 526,
   "locales": {
+    "cs": {
+      "file": "lang_cs.json",
+      "sha256": "1b2c5f245de7f1724e6f0a49b230d20dd71d78d1ca0dcfca26ef6b9247f608d6",
+      "bytes": 29792,
+      "items": 526
+    },
     "da": {
       "file": "lang_da.json",
       "sha256": "2e5a82780a909b71a1ef9422153235dcb73c0656c2d642798ca5b578418d69c5",
@@ -21,6 +27,12 @@
       "bytes": 30426,
       "items": 526
     },
+    "fi": {
+      "file": "lang_fi.json",
+      "sha256": "9b46188b24a039fa78e56f844fbe7afdaba7db84e92d214ca489ab953fe160bd",
+      "bytes": 30091,
+      "items": 526
+    },
     "fr": {
       "file": "lang_fr.json",
       "sha256": "ed9ae5420ef28f9985b6c990294bdcad4db7c3417bd12fd5ec19ecb06f47a416",
@@ -37,6 +49,12 @@
       "file": "lang_nl.json",
       "sha256": "a14d3fd14d190a43fc94bfbd31558d648531b5f2433a3c028902602c0508a2f1",
       "bytes": 29873,
+      "items": 526
+    },
+    "no": {
+      "file": "lang_no.json",
+      "sha256": "929d6663584896756546efc48ee9bfa20e16f0c249465d7e86f5dbcaf72ae9df",
+      "bytes": 28808,
       "items": 526
     },
     "pl": {
