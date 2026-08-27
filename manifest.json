@@ -15,6 +15,12 @@
       "bytes": 42737,
       "items": 530
     },
+    "bn": {
+      "file": "lang_bn.json",
+      "sha256": "86a20f0b850e1a4fd38fc72e852891d287e4b03b6dfeec85dea9ea9d16c6a637",
+      "bytes": 50669,
+      "items": 530
+    },
     "ca": {
       "file": "lang_ca.json",
       "sha256": "f56f62762ff8e4ed78578bc175fe654fa0b87ce4651e8386ee041a8619905e60",
@@ -73,6 +79,12 @@
       "file": "lang_he.json",
       "sha256": "02ed93a17f397985445eb8fe467042611cd48c9feecbe0865e0eb95520c687db",
       "bytes": 35908,
+      "items": 530
+    },
+    "hi": {
+      "file": "lang_hi.json",
+      "sha256": "e4831a8eb8bdfdabb8ec7c746efe84f63778bf8f3c32e33d0d553d3bac2df1ba",
+      "bytes": 52241,
       "items": 530
     },
     "hr": {
@@ -151,6 +163,18 @@
       "file": "lang_sv.json",
       "sha256": "3ac091b1fed63a365cfe65bbc951657d816bdfc4fc75fd7ce6948c4236e94159",
       "bytes": 29694,
+      "items": 530
+    },
+    "ta": {
+      "file": "lang_ta.json",
+      "sha256": "a8e26530588a42950e1a69f55474c61f3408944f807269a571ee12cdb44c24c4",
+      "bytes": 63707,
+      "items": 530
+    },
+    "te": {
+      "file": "lang_te.json",
+      "sha256": "ee989885c2db3a3337b25d36f51ce3603c59d74a1c997c5d998f8f2077a6fc9f",
+      "bytes": 54738,
       "items": 530
     },
     "tr": {
