@@ -1,13 +1,13 @@
 {
-  "version": "2026-08-26",
+  "version": "2026-08-27",
   "defaultLocale": "en",
-  "keys": 417,
+  "keys": 517,
   "locales": {
     "ru": {
       "file": "lang_ru.json",
-      "sha256": "0fe822289b0519779f2455238d1a555ac1ee2a00dd8008fe85b6801be9805957",
-      "bytes": 32118,
-      "items": 417
+      "sha256": "800f490b533a73a0bb2a0f7c2b08dba9fe0519e3c4d53714f5387240710b1e29",
+      "bytes": 40422,
+      "items": 517
     }
   }
 }
