@@ -141,6 +141,12 @@
       "bytes": 29144,
       "items": 530
     },
+    "or": {
+      "file": "lang_or.json",
+      "sha256": "ec44e96196c0d2747efa5ed8a8cbc7bf4547802633fa855495428fdafba153a3",
+      "bytes": 53657,
+      "items": 530
+    },
     "pa": {
       "file": "lang_pa.json",
       "sha256": "8054ff7f578c77e56be9c8a8d47567a4c938afa9228fc0843a30c0fdeae54a2e",
