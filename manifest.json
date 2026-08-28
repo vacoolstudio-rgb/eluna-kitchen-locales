@@ -147,6 +147,12 @@
       "bytes": 30777,
       "items": 530
     },
+    "my": {
+      "file": "lang_my.json",
+      "sha256": "4b2fb8cc77ecea3143ccf852afffda8cd2db873b4c6706d6b64416fe1afa23e5",
+      "bytes": 71400,
+      "items": 530
+    },
     "nl": {
       "file": "lang_nl.json",
       "sha256": "9d7d6ea485d441a25bb850136a94b4b00df164f715126c904dcee5408ce99d19",
