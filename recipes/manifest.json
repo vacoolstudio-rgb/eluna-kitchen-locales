@@ -5,14 +5,20 @@
   "locales": {
     "de": {
       "file": "recipes_de.json.gz",
-      "sha256": "8004811bbbcae9b57802c6ad447f28c5e535bca2a31b8f6d7ebf4571b4acfb7f",
-      "bytes": 629791,
+      "sha256": "1a273281310b574f4b17b75af56401a94b03a689788693b92be95df43e3905b9",
+      "bytes": 629775,
       "items": 3132
+    },
+    "es": {
+      "file": "recipes_es.json.gz",
+      "sha256": "a6920034f97e3a0fc92f803b0ad147e1f4d6da5691c10ea1ff3297fe56fe90da",
+      "bytes": 66686,
+      "items": 375
     },
     "fr": {
       "file": "recipes_fr.json.gz",
-      "sha256": "aab005a01495b4daec5225c1d78044a7e896114493241cf10b6d35ddce13f881",
-      "bytes": 626664,
+      "sha256": "dbe9e71c31c96c74adc3be66c60e243a6b6f14ab737e57771dae85a4eca5d694",
+      "bytes": 626651,
       "items": 3132
     },
     "ru": {
