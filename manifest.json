@@ -135,6 +135,12 @@
       "bytes": 52415,
       "items": 530
     },
+    "ms": {
+      "file": "lang_ms.json",
+      "sha256": "4e8641f587bc2f23707f55cf0fc160fdc6ca9dc883625bf75a64e1ebce86a6af",
+      "bytes": 30777,
+      "items": 530
+    },
     "nl": {
       "file": "lang_nl.json",
       "sha256": "9d7d6ea485d441a25bb850136a94b4b00df164f715126c904dcee5408ce99d19",
