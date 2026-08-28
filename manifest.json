@@ -213,6 +213,12 @@
       "bytes": 54738,
       "items": 530
     },
+    "th": {
+      "file": "lang_th.json",
+      "sha256": "d7164c51230e9c12f17c447958a00e6533bf8f7b312c0a33b961875975b6efc5",
+      "bytes": 55390,
+      "items": 530
+    },
     "tr": {
       "file": "lang_tr.json",
       "sha256": "1ca00da315cbe4aa8f47e12a06be6ee63dc90bfcc84b437711eb3444d0b27c85",
