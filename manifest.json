@@ -75,6 +75,12 @@
       "bytes": 32429,
       "items": 530
     },
+    "gu": {
+      "file": "lang_gu.json",
+      "sha256": "cb2661e4beb6c3c67676db02dc3a7261dedf70979ea0fa5325fa37c86d7adb31",
+      "bytes": 50574,
+      "items": 530
+    },
     "he": {
       "file": "lang_he.json",
       "sha256": "02ed93a17f397985445eb8fe467042611cd48c9feecbe0865e0eb95520c687db",
