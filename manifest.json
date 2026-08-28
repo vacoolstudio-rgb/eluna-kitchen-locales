@@ -117,6 +117,12 @@
       "bytes": 31030,
       "items": 530
     },
+    "km": {
+      "file": "lang_km.json",
+      "sha256": "1d85fec99e1e3ae9c626b47d0ab22dd7d417bbc8fe0cae68f2c58f6fcbe61a70",
+      "bytes": 60773,
+      "items": 530
+    },
     "kn": {
       "file": "lang_kn.json",
       "sha256": "328ff298e2ebc64a90413381c8476ea9ec6c4a31f4b53d6cba7e50e70557abdf",
