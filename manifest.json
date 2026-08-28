@@ -236,6 +236,12 @@
       "sha256": "d191af45c7fefdfc13f2683fdf122df78cbed5eb95a9e0e93bd709639b8778ce",
       "bytes": 39909,
       "items": 530
+    },
+    "vi": {
+      "file": "lang_vi.json",
+      "sha256": "8dd30999b7d5647dbfbf0f956d8c509dec51468bbbaebf96b83ff926398a7fc0",
+      "bytes": 36103,
+      "items": 530
     }
   }
 }
