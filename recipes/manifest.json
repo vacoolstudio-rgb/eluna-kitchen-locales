@@ -11,9 +11,9 @@
     },
     "es": {
       "file": "recipes_es.json.gz",
-      "sha256": "a6920034f97e3a0fc92f803b0ad147e1f4d6da5691c10ea1ff3297fe56fe90da",
-      "bytes": 66686,
-      "items": 375
+      "sha256": "1d5895639a8265978db08d827e73713d86b2c5eb7c6d6bf34babb5fc0acf8754",
+      "bytes": 610115,
+      "items": 3132
     },
     "fr": {
       "file": "recipes_fr.json.gz",
