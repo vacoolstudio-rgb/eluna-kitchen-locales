@@ -135,6 +135,12 @@
       "bytes": 55253,
       "items": 530
     },
+    "ko": {
+      "file": "lang_ko.json",
+      "sha256": "79d8d3764e96992546af9cea60bcdaa28f1c79ba76b9f164ee68900a374f1228",
+      "bytes": 34198,
+      "items": 530
+    },
     "ml": {
       "file": "lang_ml.json",
       "sha256": "367ddd56ae308f0428f4c60ce59f84197a3ee917c1abf88a840cb29deb0ce8a7",
