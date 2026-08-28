@@ -231,6 +231,12 @@
       "bytes": 55390,
       "items": 530
     },
+    "tl": {
+      "file": "lang_tl.json",
+      "sha256": "fd23ea8883213350417c37a4bbadb699f45f22ba84ecc62623c1cc1e259e2550",
+      "bytes": 31819,
+      "items": 530
+    },
     "tr": {
       "file": "lang_tr.json",
       "sha256": "1ca00da315cbe4aa8f47e12a06be6ee63dc90bfcc84b437711eb3444d0b27c85",
