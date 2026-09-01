@@ -1,30 +1,36 @@
 {
-  "version": "2026-08-28",
+  "version": "2026-09-02",
   "defaultLocale": "en",
   "recipes": 3132,
   "locales": {
     "de": {
       "file": "recipes_de.json.gz",
-      "sha256": "1a273281310b574f4b17b75af56401a94b03a689788693b92be95df43e3905b9",
-      "bytes": 629775,
+      "sha256": "72d400138043260f26fa05e96126afa3f5c25988e015ed81bfab8da28e383be2",
+      "bytes": 629778,
       "items": 3132
     },
     "es": {
       "file": "recipes_es.json.gz",
-      "sha256": "1d5895639a8265978db08d827e73713d86b2c5eb7c6d6bf34babb5fc0acf8754",
-      "bytes": 610115,
+      "sha256": "7c0021668d613165ca4ac31b23588dad6b4101fefb3481acaef0cf1dd6cc3009",
+      "bytes": 610113,
       "items": 3132
     },
     "fr": {
       "file": "recipes_fr.json.gz",
-      "sha256": "dbe9e71c31c96c74adc3be66c60e243a6b6f14ab737e57771dae85a4eca5d694",
-      "bytes": 626651,
+      "sha256": "fe1c667f6e4c3c7c20da96adda46d385daf93914069f828ebb84af5032ce34e9",
+      "bytes": 626678,
       "items": 3132
     },
     "ru": {
       "file": "recipes_ru.json.gz",
-      "sha256": "d608ff413b9515b02a3f92592d704787b91cc2ed20d76964544f10f41c672d4a",
-      "bytes": 734577,
+      "sha256": "f740c72ba939a2974779494f345045aa6cc984c3696fa9a6edd3949c027c99bb",
+      "bytes": 734591,
+      "items": 3132
+    },
+    "uk": {
+      "file": "recipes_uk.json.gz",
+      "sha256": "d40823395a882f370c3741d3bc6898229431839a9d5e7e500b69f51b49a2ef08",
+      "bytes": 766803,
       "items": 3132
     }
   }
