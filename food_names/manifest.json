@@ -11,9 +11,9 @@
     },
     "uk": {
       "file": "food_names_uk.json.gz",
-      "sha256": "ce7886693a79738af9712df43748639588308005b3564e63753535045e0a8908",
-      "bytes": 94274,
-      "items": 6124
+      "sha256": "e99ca8a22fd0f337a79387b44b7bd32d50e3231305441636e082434c0bbff7c0",
+      "bytes": 200699,
+      "items": 26981
     }
   }
 }
