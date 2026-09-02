@@ -29,8 +29,8 @@
     },
     "uk": {
       "file": "recipes_uk.json.gz",
-      "sha256": "d40823395a882f370c3741d3bc6898229431839a9d5e7e500b69f51b49a2ef08",
-      "bytes": 766803,
+      "sha256": "b47edc3b7993ff811ff31bcf5896678e83a549a87599bf5792ff5ee08f4ff016",
+      "bytes": 766769,
       "items": 3132
     }
   }
