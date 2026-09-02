@@ -1,0 +1,19 @@
+{
+  "version": "2026-09-02",
+  "defaultLocale": "en",
+  "foods": 6124,
+  "locales": {
+    "ru": {
+      "file": "food_names_ru.json.gz",
+      "sha256": "8db031b522be1fe6c42f0355c368a6e2f6a3565750c72ba94303aeb5c3bcd6db",
+      "bytes": 139367,
+      "items": 17581
+    },
+    "uk": {
+      "file": "food_names_uk.json.gz",
+      "sha256": "ce7886693a79738af9712df43748639588308005b3564e63753535045e0a8908",
+      "bytes": 94274,
+      "items": 6124
+    }
+  }
+}
